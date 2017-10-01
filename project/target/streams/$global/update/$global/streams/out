@@ -1,4 +1,4 @@
-[info] Updating {file:/E:/big_data/scala/ml-scala-spark/project/}ml-scala-spark-build...
+[info] Updating {file:/C:/Users/Vikas/Documents/GitHub/ML-Scala-Spark/project/}ml-scala-spark-build...
 [debug] :: resolving dependencies :: default#ml-scala-spark-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6009,19 +6009,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 3518ms :: artifacts dl 97ms
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT compile produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-compile.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT runtime produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-runtime.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT test produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-test.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT provided produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-provided.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT optional produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-optional.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT compile-internal produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-compile-internal.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT runtime-internal produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-runtime-internal.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT test-internal produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-test-internal.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT plugin produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-plugin.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT sources produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-sources.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT docs produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-docs.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT pom produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-pom.xml
-[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT scala-tool produced in E:\big_data\scala\ml-scala-spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-scala-tool.xml
-[debug] 	resolve done (3518ms resolve - 97ms download)
+[debug] :: resolution report :: resolve 2295ms :: artifacts dl 82ms
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT compile produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-compile.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT runtime produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-runtime.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT test produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-test.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT provided produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-provided.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT optional produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-optional.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-compile-internal.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-runtime-internal.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT test-internal produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-test-internal.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT plugin produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-plugin.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT sources produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-sources.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT docs produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-docs.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT pom produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-pom.xml
+[debug] 	report for default#ml-scala-spark-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Vikas\Documents\GitHub\ML-Scala-Spark\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-ml-scala-spark-build-scala-tool.xml
+[debug] 	resolve done (2295ms resolve - 82ms download)
 [info] Done updating.
