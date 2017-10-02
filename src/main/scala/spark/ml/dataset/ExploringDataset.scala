@@ -10,7 +10,7 @@ object ExploringDataset extends App{
 
   val conf = new SparkConf().setAppName("wordCount").setMaster("local")
 
-  val userFile="E:\\big_data\\scala\\ml-scala-spark\\ml-100k\\u.user"
+  val userFile="/home/vikas/IdeaProjects/ML-Scala-Spark/ml-100k/u.user"
   val spark = SparkSession
     .builder()
     .appName("Exploring Dataset")

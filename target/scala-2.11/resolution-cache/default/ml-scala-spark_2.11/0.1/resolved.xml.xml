@@ -4,7 +4,7 @@
 		module="ml-scala-spark_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20170930132411"
+		publication="20171001145539"
 	>
 		<description>
 		ml-scala-spark
